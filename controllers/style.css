@@ -1,0 +1,12 @@
+.container {
+    width: 375px;
+    height: auto;
+    margin-left: 350px;
+    background-color: rgb(173, 216, 230);
+    padding-left: 30px;
+}
+
+h1.thick{
+    font-weight: bold;
+}
+
