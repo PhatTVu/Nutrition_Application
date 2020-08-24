@@ -1,0 +1,21 @@
+{
+	"name": "nutrition-app",
+	"version": "1.0.0",
+	"description": "This project provide nutrition information for user.",
+	"main": "app.js",
+	"scripts": {
+		"start": "npm install && node app"
+	},
+	"author": "Phat Vu",
+	"dependencies": {
+		"express": "*",
+		"ejs": "*",
+		"shortid": "*",
+		"express-session": "*",
+		"passport": "*",
+		"passport-local": "*",
+		"express-flash": "*",
+		"bcrypt": "*",
+		"dotenv": "*"
+	}
+}
